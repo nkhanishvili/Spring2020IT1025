@@ -2,18 +2,16 @@
 Include your executive summary here...
 
 # Python
-* Explain the difference between the shell and file editor in the IDLE in your lab readme.md file under the heading Python IDLE. 
+* Upload screenshot of the program you created along with the run output.
+
+Based on the videos you watched about Python and class exercise, explain your understanding AND give an example of 
+* A variable 
+* An assignment statement 
+* A function 
+* Three data types 
  
-* Upload hellp.py to github.
- 
-* Create a screenshot that includes your code and run of your code (move the windows side by side) and name the file: PythonIDLEHello. Upload to your lab folder on GitHub 
- 
-* Create the following heading: Code Examples below the heading Python IDLE. Provide an example of each of the following including a brief explanation of each: 
-A variable (Also include why the author uses the variable names spam, bacon and eggs?) 
-An assignment statement 
-A function 
-Three data types 
- 
+# Command Line
+Upload screenshots for the Activity 3 to github
 
 # Conclusion
 Include your professional conclusion here...
