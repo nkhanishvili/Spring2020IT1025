@@ -46,6 +46,8 @@ Definitions to match:
 ## Network Hardware
 * Explain the benefit of a switch over a hub.
 * Explain the benefit of a router over hubs and switches.
+
+## Network Topology
 * Explain: Single point of failure and the topologies that experience this issue. 
 * Compare the Infrastructure Topology and Wireless Mesh. Which do you think is better and why? 
 
