@@ -5,7 +5,7 @@
 a) which is the primary key?
 b) which is the foreign key?
 * Explain how SQL injections are a security threat and what can be done to reduce the issue. 
- * 
+ 
 # Ethical and Legal Implications of Information Systems
 ## Code of Ethics
 * Explain the purpose of a "code of ethics" and why the ACM created a code for the computing discipline.
